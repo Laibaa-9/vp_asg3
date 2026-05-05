@@ -80,7 +80,7 @@ body {
 .btn-navy {
     background-color: var(--bg-navy);
     border: none;
-    transition: all 0.3s ease;
+    transition: all 0.4s ease;
 }
 
 .btn-navy:hover {
