@@ -154,7 +154,7 @@ body {
     width: 86%; /* Properly fills width without overflowing edges */
     height: 92%; /* Taller height prevents it from getting flattened */
     object-fit: contain; /* Prevents visual distortion or squishing of the phone mockup */
-    z-index: 2;
+    z-index: 1;
     display: block;
 }
 
