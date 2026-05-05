@@ -101,7 +101,6 @@ body {
 .testimonials-section {
     background-color: #ffc22b !important; /* Targets the specific container's background only */
 }
-
 .featured-text {
     font-size: 14px;
     font-weight: 800;
@@ -110,6 +109,7 @@ body {
     color: var(--bg-navy) !important;
     opacity: 0.73;
 }
+
 
 .brand-logo {
     opacity: 1 !important; /* Removes transparent/fade effect completely */
