@@ -142,7 +142,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: fill; /* Allows the background to scale vertically without flattening */
-    border-radius: 24px;
+    border-radius: 25px;
     display: block;
 }
 
