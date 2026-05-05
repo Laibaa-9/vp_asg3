@@ -130,7 +130,7 @@ body {
 .hero-image-container {
     position: relative;
     width: 100%;
-    max-width: 480px; /* Expands width constraints slightly for a taller layout */
+    max-width: 481px; /* Expands width constraints slightly for a taller layout */
     height: 540px; /* Taller box prevents flatness */
     margin: 0 auto;
     display: flex;
