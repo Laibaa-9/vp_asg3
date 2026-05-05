@@ -206,5 +206,5 @@ body {
 
 .insights-section .card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.08) !important;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.09) !important;
 }
